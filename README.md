@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kamilop1
+- 👀 I’m interested in frontend development!
+- 🌱 I’m currently learning CSS,JS,HTML
+- 📫 How to reach me: discord kamilop11#2118
